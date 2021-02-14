@@ -7,6 +7,9 @@
 - 💼 &nbsp; I’m currently working on <a href="https://primerp.com.br">Group Prime</a>.
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
+- ❤️ &nbsp; Meet our group at <a href="https://discord.gg/2JdWdKDNFM">Discord</a>.
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -42,3 +45,6 @@
 
 <p align="center">
 <a href="https://www.instagram.com/lobingeek/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lobingeek-blue?style=flat-square&logo=instagram"></a>
+  
+  
+  
