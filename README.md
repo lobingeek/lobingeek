@@ -40,4 +40,4 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/lobingeek/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thicsouzaa-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/lobingeek/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lobingeek-blue?style=flat-square&logo=instagram"></a>
