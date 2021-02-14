@@ -1,4 +1,5 @@
-<h2> Hey there! I'm Loup. A development company founded by wolves in love with GTA V Multiplayer.</h2>
+<h2> Hey there! I'm Loup. 
+A development company founded by wolves in love with GTA V Multiplayer.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
